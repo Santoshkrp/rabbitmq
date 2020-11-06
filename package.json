@@ -1,0 +1,16 @@
+{
+  "name": "RabbitMQ",
+  "version": "1.0.0",
+  "main": "receiver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.6",
+    "express": "^4.17.1"
+  },
+  "description": ""
+}
